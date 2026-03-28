@@ -56,7 +56,7 @@ rizz main()
         yapping num = spill(42);
         W(num);
 
-        GLAZING("this code is peak and bussin fr fr no cap");
+        GLAZING("this code is peak and bussin fr fr no cap"); // basically a comment
 
         lemme_cook
         {
