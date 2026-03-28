@@ -47,22 +47,22 @@ rizz main()
 
         // new stuff
         squad<rizz> unsorted = {5, 3, 1, 4, 2};
-        fix_ur_life(unsorted.begin(), unsorted.end());
+        get_ur_life_together(unsorted.begin(), unsorted.end());
         fr(idk & n : unsorted) W(n);
 
         W(goat(3, 7));
         W(lil_bro(3, 7));
 
-        yapping num = exposing(42);
+        yapping num = spill(42);
         W(num);
 
-        GLAZING(this code is peak and bussin fr fr no cap)
+        GLAZING("this code is peak and bussin fr fr no cap");
 
         lemme_cook
         {
                 ratio cooked("we cooked fr");
         }
-        caught(no_cap L & e)
+        caught(big_L & e)
         {
                 W(e.what());
         }

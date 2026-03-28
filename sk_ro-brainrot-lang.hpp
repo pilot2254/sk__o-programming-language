@@ -56,15 +56,15 @@
 #define lore        std::map
 #define goat        std::max
 #define lil_bro     std::min
-#define fix_ur_life std::sort
-#define stalk       std::find
-#define switcheroo  std::swap
-#define exposing    std::to_string
-#define L           std::exception
-#define cooked      std::runtime_error
+#define get_ur_life_together std::sort
+#define stalk                std::find
+#define switcheroo           std::swap
+#define spill                std::to_string
+#define big_L                std::exception
+#define cooked               std::runtime_error
 
 // macros 
 #define W(x)            (std::cout << x << '\n')
 #define its_over(x)     (std::exit(x))
 #define vibe_check(x)   (assert(x))
-#define GLAZING(x)      /* x */
+#define GLAZING(x)      ((void)(x))  // compiles, does nothing, accepts strings
