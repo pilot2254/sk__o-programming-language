@@ -8,8 +8,10 @@
 #include <map>
 #include <cassert>
 #include <cstdlib>
+#include <algorithm>
+#include <stdexcept>
 
-// types
+// types 
 #define rizz        int
 #define lowkey      float
 #define highkey     double
@@ -18,8 +20,12 @@
 #define idk         auto
 #define yapping     std::string
 #define blud        char
+#define big         long
+#define smol        short
+#define positive    unsigned
+#define howmany     size_t
 
-// keywords
+// keywords 
 #define ngl         if
 #define otherwise   else
 #define fr          for
@@ -42,14 +48,23 @@
 #define caught      catch
 #define ratio       throw
 
-// stdlib
+// stdlib 
 #define yap         std::cout
 #define listen      std::cin
 #define pause       std::endl
 #define squad       std::vector
 #define lore        std::map
+#define goat        std::max
+#define lil_bro     std::min
+#define fix_ur_life std::sort
+#define stalk       std::find
+#define switcheroo  std::swap
+#define exposing    std::to_string
+#define L           std::exception
+#define cooked      std::runtime_error
 
-// macros
+// macros 
 #define W(x)            (std::cout << x << '\n')
 #define its_over(x)     (std::exit(x))
 #define vibe_check(x)   (assert(x))
+#define GLAZING(x)      /* x */
